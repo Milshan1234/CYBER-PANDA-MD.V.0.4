@@ -1,8 +1,8 @@
 {
-  "name": "CYBER-PANDA-MD",
+  "name": "BAECO BOT MC",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4",
-  "logo": "https://imgur.com/a/uADuUzv",
+  "logo": "https://telegra.ph/file/cf75e6a7d571f8d474473.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
